@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1890111309, guid: 7668179ede524d6396c8b7d84461ea29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeInFrames: 1
+  timeAreaShownRange: {x: 9.510127, y: 19.01237}
+  showAudioWaveform: 1
+  trackHeight: 30
+  trackScale: 1
+  playRangeEnabled: 0
+  timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
+  windowTime: 10.783333333333333
+  verticalScroll: 0
+  m_Keys:
+  - {fileID: 114542235918262542, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114545412249194214, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114603797493966164, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114320354816239368, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114575585458070642, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114607612738639108, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114715310822784464, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114075717590308804, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114095165802353446, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114556002835799258, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114309675013102412, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  - {fileID: 114167652277854666, guid: d7af4ba583c73ba4193170871e9a61d2, type: 2}
+  m_Vals:
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 1
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
+  - collapsed: 0
+    showInlineCurves: 0
+    inlineAnimationCurveHeight: 100
